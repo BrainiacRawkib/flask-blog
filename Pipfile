@@ -7,6 +7,11 @@ name = "pypi"
 flask = "*"
 flask-wtf = "*"
 flask-sqlalchemy = "*"
+flask-bcrypt = "*"
+flask-login = "*"
+pillow = "*"
+itsdangerous = "==1.1.0"
+flask-mail = "*"
 
 [dev-packages]
 
